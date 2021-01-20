@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wrouvre.github.io\/workadventure-map-ippon-nantes\/public\/sounds\/rick-astley-never-gonna-give-you-up-hq.mp3"
+                 "value":"public\/sounds\/rick-astley-never-gonna-give-you-up-hq.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
